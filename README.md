@@ -1,5 +1,7 @@
 # Frontend Mentor - Order summary card
 
+You can access it <a href="https://pedrosaito1.github.io/order-summary-component-main/" target="_blank">here</a><br>
+
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
